@@ -1,0 +1,268 @@
+img.klo{
+  width: 300px;
+  border-radius: 10px 40px;
+  border:  double 8px black;
+  background-size:50% ;
+}
+
+
+body{
+  background:black;
+}
+
+
+.image{
+background-image: url("img.mena");
+background-size: cover;
+background-clip: text;
+color:transparent;
+}
+
+
+div.mena{
+  
+position:relative;
+    
+  
+    top:-35px;
+    right: px;
+    left:-3px;
+    bottom:px;
+color:black;
+background:gold;
+height: 50px;;
+width:350px ;
+
+}
+
+
+h3{
+   
+  letter-spacing: 0px;
+  text-align: center;
+  position:relative;
+  
+    top:px;
+    right:0px;
+    left:0px;
+    bottom:px;
+    font-family:fantasy;
+    font-size: 40px;
+  
+    
+}
+
+
+img{
+  width:200px;
+  border-radius: 10px 10px;
+}
+
+div.ky{
+  color:transparent;
+  background: black;
+  height:50px;
+}
+
+p{
+  position: relative;
+   
+   
+  bottom:200px ;
+
+  color: white;
+  
+  text-align: right;
+}
+
+
+h2.q{
+  position: relative;
+  
+  top:-37px;
+
+  color: white;
+  text-align: right;
+  font-family: serif;
+}
+
+
+hr{
+  position: relative;
+  
+  top:-20px ;
+  border: solid 1px  gold;
+  width:200px;
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+hr.ku{
+  position:relative;
+  
+  top:-60px;
+  
+  border: solid 1px gold;
+  width: 200px;
+}
+
+
+h2.op{
+   
+   text-align: right;
+  
+  color: white;
+  
+  font-family: serif;
+  
+   
+}
+
+
+
+
+
+h2.op{
+  
+  position: relative;
+  
+  top:-61px;
+  
+  font-size: 20px; 
+  
+}
+
+
+
+
+h2.go{
+  color: white;
+   
+   text-align: center;
+}
+
+
+div.hp{
+  background-color:black;
+  height:999;
+  
+  
+}
+
+
+p.oh{
+  text-align: center;
+  position: relative;
+  top:10px;
+  color: white;
+  
+}
+
+
+p.hd{
+  position:relative;
+   
+   top:5px;
+  color: gold;
+  text-align: center;
+  
+}
+
+
+p.ejv{
+  
+  font-size:25px;
+  
+  position: relative;
+   
+   top: -10px;
+  text-align: center;
+   
+   color: gold;
+}
+
+
+
+img.ios{
+  position:relative;
+  top:-34px;
+  right: 3px;
+  width:350px;
+  height:230px;
+  border-radius: 20px 20px 20px 20px;
+}
+
+
+button{
+   
+   position: relative;
+   
+   top:-95px;
+   
+   left:235px;
+  
+  color: black;
+  
+  background: gold;
+  
+ width: 100px;
+ border-radius: 8px 8px ;
+ 
+ border: double 3px gold;
+}
+
+p.sp{
+  position:relative;
+  
+  top: 70px;
+  
+  color:gold;
+  text-align: center;
+}
+
+
+p.ae{
+  color:red;
+  position: relative;
+  
+  top: 75px;
+  
+  text-align: center;
+  direction: 1px;
+}
+
+
+
+a{
+ color: #787FCB;
+}
+
+div.phvv{
+background:transparent;
+}
+
+
+
+div.phv{
+  background: transparent;
+  
+height: 80px;
+}
+
+
+p.dg{
+  position:relative;
+  
+right: 60px ;
+  color: gold;
+  
+}
